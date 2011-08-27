@@ -48,7 +48,8 @@ if (!empty($_POST)) {
 	</style>
 </head>
 <body>
-	<h1>imagecopyresized vs imagecopyresampled</h1>
+	<h1><a href="/">Demo 2011-08-27</a></h1>
+	<h2>imagecopyresized vs imagecopyresampled</h2>
 	<div class="src">
 		<?php
 			list($srcW, $srcH) = getimagesize($srcImg);

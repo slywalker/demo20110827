@@ -7,7 +7,8 @@
 	<title>imagefilter</title>
 </head>
 <body>
-	<h1>imagefilter</h1>
+	<h1><a href="/">Demo 2011-08-27</a></h1>
+	<h2>imagefilter</h2>
 	<div>
 		<h3>IMG_FILTER_NEGATE</h3>
 		<img src="<?php echo $srcImg; ?>" alt="Original" />

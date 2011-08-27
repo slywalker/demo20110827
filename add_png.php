@@ -10,7 +10,8 @@ $png = 'r18red.png';
 	<title>透過pngを合成</title>
 </head>
 <body>
-	<h1>透過pngを合成</h1>
+	<h1><a href="/">Demo 2011-08-27</a></h1>
+	<h2>透過pngを合成</h2>
 	<div>
 		<h3>合成画像</h3>
 		<img src="<?php echo $jpg; ?>" alt="jpg" />
